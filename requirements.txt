@@ -1,0 +1,6 @@
+tensorflow
+numpy
+aucmedi
+keras
+pillow
+##"https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification"##
